@@ -1,0 +1,16 @@
+.btn-blue {
+	background-color: #6D71DD;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgb(0, 0, 0, 0.3) 50%), url(../../images/banner2.png);
+	color: white;
+	padding: 200px 0px;
+	background-size: cover;
+	background-position: center;
+}
